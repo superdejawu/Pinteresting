@@ -1,5 +1,5 @@
-# One Month Rails
+# Pinterest Clone Test
 
-This is the Pinteresting sample application for [*One Month Rails*](http://onemonthrails.com)
+This is a test of a Pinterest-type site!
 
 by [George Wu](http://georgewu.ca)
